@@ -5,6 +5,7 @@ python=3.7
 tensorflow=2.0.0  
 Keras=2.3.1  
 numpy=1.9.4 
+cuda=11.2
 # Usage:
 1. FER with RRDB and ViT.py -- Main program
 2. layer.py -- For groupNormalization
